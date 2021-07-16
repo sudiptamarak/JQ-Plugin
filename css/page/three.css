@@ -1,0 +1,38 @@
+.h1{
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+/* CounterUp Start */
+.member-count{
+    padding: 20px 0;
+}
+
+.bg-c{
+    background-color: darkgrey;
+}
+
+.count{
+    background-color: darkkhaki;
+    border-radius: 10px;
+    color: #fff;
+    padding: 10px 0;
+}
+.count p{
+    font-size: 30px;
+}
+/* CounterUp End */
+
+
+/* Flipping Gallery Start */
+.gallery{
+    width: 500px;
+    height: 333px;
+    margin: 150px auto 20px;
+}
+
+.gallery a img{
+    width: 500px;
+}
+/* Flipping Gallery End */
